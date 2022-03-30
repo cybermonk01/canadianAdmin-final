@@ -1,10 +1,10 @@
-# ProShop eCommerce Platform
+# CanadianPharmacy eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 
 This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
-![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+
 
 ## Features
 
@@ -93,10 +93,10 @@ Sample User Logins
 admin@example.com (Admin)
 123456
 
-john@example.com (Customer)
+abc@example.com (Customer)
 123456
 
-jane@example.com (Customer)
+xyz@example.com (Customer)
 123456
 ```
 
@@ -105,7 +105,7 @@ jane@example.com (Customer)
 
 The MIT License
 
-Copyright (c) 2020 Traversy Media https://traversymedia.com
+Copyright (c) 2022 JamesonsInfoSolutions https://jamesonsinfosolutions.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
